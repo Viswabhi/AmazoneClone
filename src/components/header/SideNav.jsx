@@ -1,5 +1,6 @@
 import React from 'react'
-import KeyboardArrowRightIcon from "@mui/icons-material/keyboardArrowRight";
+import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
+
 const SideNav = ({title,one,two,three}) => {
   return (
     <div className='py-3 border-b-[1px] border-b-gray-300 '>
